@@ -1,4 +1,4 @@
-# Instagram Checker
+# Instagram Combo Checker
 
 This project is an Instagram combo checker that validates username and password combinations. It supports proxy usage to avoid rate limiting and provides options to use your own proxies, download new proxies, or run without proxies.
 
@@ -63,4 +63,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Disclaimer
 
-This script is intended solely for educational purposes. Misuse of this tool can lead to your IP being blocked by Instagram or other legal consequences. Use at your own risk. The author is not responsible for any misuse or damage caused by this tool.
+This script is intended solely for educational purposes. Misuse of this tool can lead to your IP being blocked by Instagram or other legal consequences. Use at your own risk. The author is not responsible for any misuse or damage caused by this tool. By using this tool, you agree to use it in compliance with all applicable laws and regulations.
