@@ -1,4 +1,4 @@
-# Instagram Combo Checker
+# Instagram Checker
 
 This project is an Instagram combo checker that validates username and password combinations. It supports proxy usage to avoid rate limiting and provides options to use your own proxies, download new proxies, or run without proxies.
 
@@ -17,35 +17,17 @@ This project is an Instagram combo checker that validates username and password 
 
 ## Installation
 
-1. Clone the repository:
+1. Download the project folder.
 
-    ```sh
-    git clone https://github.com/yourusername/instagram-combo-checker.git
-    cd instagram-combo-checker
-    ```
+2. Run `setup.bat` to install the required Python packages.
 
-2. Create a virtual environment and activate it:
-
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. Install the required packages:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
+3. Run `start.bat` to start the script.
 
 ## Usage
 
 1. Ensure you have a file named `combo.txt` in the project directory with your username:password combinations, one per line.
 
-2. Run the script:
-
-    ```sh
-    python main.py
-    ```
+2. Run the script by executing `start.bat`.
 
 3. Follow the prompts to choose how you want to handle proxies:
     - Use your own proxies from `proxys.txt`
